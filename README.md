@@ -25,6 +25,8 @@ I created this project out of curiosity about how the number of players from dif
 
 The analysis included a total of **23,067 matches**. The results show that the win rate tends to decrease for a team if it has more console players than the opposing team.
 
+[Tableau Dashboard](https://public.tableau.com/app/profile/alisa.u8205/viz/predecessor/Dashboard1)
+
 ### 🎮 Win Rate by Number of Console Players
 
 The table below shows how the average team win rate changes depending on the number of console players in each team.
